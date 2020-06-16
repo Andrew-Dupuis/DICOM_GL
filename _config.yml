@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: DICOM-GL
+description: A light, command line based DICOM rendering package in C++
+logo: https://github.com/apd47/DICOM-GL/blob/master/Pages/DICOM%20GL.png?raw=true
+
+

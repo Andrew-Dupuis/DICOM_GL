@@ -1,0 +1,11 @@
+﻿  Controls.cpp
+C:\Users\Andrew Dupuis\Documents\GitHub\DICOM-GL\DICOM-2D\src\Controls.h(8,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  DICOMImporter.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Andrew Dupuis\Documents\GitHub\DICOM-GL\DICOM-2D\src\DICOMImporter.h(8,10): fatal error C1083: Cannot open include file: 'gdcmImageReader.h': No such file or directory
+  Main.cpp
+C:\Users\Andrew Dupuis\Documents\GitHub\DICOM-GL\DICOM-2D\src\Main.cpp(6,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Matrices.cpp
+  Tools.cpp
+C:\Users\Andrew Dupuis\Documents\GitHub\DICOM-GL\DICOM-2D\src\Tools.h(10,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
